@@ -15,6 +15,7 @@ Description: FaceID/TouchID for A11 devices with checkm8 based jailbreaks
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/checkl0cksettings.bundle/icon@3x.png
 Name: Checkl0ck
+https://carljakoblich.github.io/repo/depictions/Checkl0ck.json
 
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
