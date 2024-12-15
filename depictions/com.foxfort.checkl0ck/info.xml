@@ -1,0 +1,23 @@
+<package>
+	<id>com.foxfort.checkl0ck</id>
+	<name>Checkl0ck</name>
+	<version>1.7.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>16.7.10</maxiOS>
+			<miniOS>14.3</miniOS>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Lock</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
